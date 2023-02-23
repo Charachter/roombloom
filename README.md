@@ -11,7 +11,7 @@ So I decided that I have to build a real-life useful project from the ground and
 <b>The RoomBloom project: </b>
 
 Today is the 23/02/2023 and I've decided to bring my 3-months Dana Analytics course graduate project to another level as I continue to study new technologies.
-I will develop a free web-based property management software that could find it's use in hotels / resorts / real estate rentals / spa-centers / co-working spaces / etc.
+I will develop a free web-based property management software that could find it's use in hotels, resorts, real estate rentals, spa-centers, co-working spaces, etc.
 The result will be a valuable tool for thousands of businesses across the globe. (Hopefully, he-he)
 
 <b>What I have at the moment: </b>
@@ -21,4 +21,5 @@ I've built an efficient MySQL database structure with ERD that will manage:
 - Reservations
 - Rooms
 - Operations
+- Agents
 - Employees
